@@ -1,0 +1,8 @@
+{
+  "directory": "web/app/components/",
+  "timeout": 120000,
+  "registry": {
+    "search": [
+    ]
+  }
+}
